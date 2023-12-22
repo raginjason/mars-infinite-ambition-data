@@ -6,6 +6,7 @@
   "customizations": {
     "vscode": {
       "extensions": [
+        "mechatroner.rainbow-csv",
         "ms-azuretools.vscode-docker",
         "redhat.vscode-yaml"
       ],
